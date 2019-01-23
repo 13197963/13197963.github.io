@@ -1,21 +1,23 @@
 Group Activites 1
 
 1
-Name        Field Of Practice   ?   ?
+Name            Field Of Practice   ?   ?
 
-Aaron Civil Engineering
+Aaron           Civil Engineering
 
-Anh (Tristan) Electrical Engineering
+Anh (Tristan)   Electrical Engineering
 
-Azmain Electrical Engineering
+Azmain          Electrical Engineering
 
-Evie Mechatronics
+Evie            Mechatronics
 
 
 
 2
 What will make your group work well? (Blair Activity)
-Different disciplines allow for different background knowledge
+Different disciplines allow for different background knowledge, but have a common base of understanding
+Common understanding of the level of work that is expected
+Communication and sharing of ideas is important, noone should be sitting on their hands
 Different personalities mean that people will take up different roles & resp. within the group
 
 
@@ -23,10 +25,11 @@ Different personalities mean that people will take up different roles & resp. wi
 
 3
 What if social capital does not provide opportunities to get an internship?
-
+If a student does not have a significant enough amount of social capital, they must attempt to increase their other types of capital in order to increase their human capital.
 
 
 What if their cultural capital does not provide them with the resources to successfully apply for internships?
+If cultural capital is not enough, the student must attempt to use other types of capital in order to get connected with the jobs that are available. Cultural capital can also be slightly improved through things such as grooming and dress.
 
 
 
