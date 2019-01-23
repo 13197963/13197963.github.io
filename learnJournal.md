@@ -1,3 +1,6 @@
+---
+layout: default
+---
 #Learning Journal
 
 ###List of Entries
