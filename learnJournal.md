@@ -4,9 +4,18 @@ layout: default
 # Learning Journal
 
 ### List of Entries
+>- [Careers Fair](./learnJournal.md#careers-fair)
 >- [Job Market Analysis](./learnJournal.md#job-market-analysis)
     - [Cisco Meraki](./learnJournal.md#advertisment-one-cisco-meraki)
     - [Google Australia](./learnJournal.md#advertisment-two-google-australia)
+
+
+
+
+## Careers Fair
+In order to learn more about the career paths available to me I attended one of the FEIT Careers Fairs organised by UTS Careers in Building 1.
+As this event was more focused on pathways for students nearing graduation, I used it as a way to find out what companies were employing young engineers, as well as what sort of engineers they were looking to employ (in terms of technical background, as well as experience and personality).
+
 
 
 
