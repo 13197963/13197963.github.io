@@ -4,7 +4,7 @@ layout: default
 # Learning Journal
 
 ### List of Entries
-- Job Market Analysis
+>- [Job Market Analysis](./learnJournal.md#job-market-analysis)
 
 
 ## Job Market Analysis
@@ -23,4 +23,11 @@ Cisco Meraki has advertised current internships on [UTS CareerHub](https://caree
 
 
 
-### Advertisment Two:
+### Advertisment Two: Google Australia
+Google is a multinational technologie company specialising in scalable business tools, SEO, data storage, and data analytics.
+
+Google is responsible for some of the most accessed sites on the internet, such as Gmail, Google Search, and Youtube. Google for Business also offer scalable systems that work with everything from small businesses to organisations with hundreds of thousands of employees.
+
+I feel this would be a worthwhile opportunity as Google's significant resources allow them to use cutting edge hardware and technology, whilst still being able to maintain the agility of smaller businesses.
+
+Due to Google's size, recruitment is managed by their internal HR department and external recruiters. Job postings amd vacancies can also be found on websites such as [indeed](https://au.indeed.com/viewjob?jk=ae309f500ef5a588&tk=1d1simcu4107j003&from=serp&vjs=3).
