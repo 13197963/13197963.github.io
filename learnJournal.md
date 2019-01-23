@@ -5,6 +5,9 @@ layout: default
 
 ### List of Entries
 >- [Job Market Analysis](./learnJournal.md#job-market-analysis)
+    >- [Cisco Meraki](./learnJournal.md#advertisment-one-cisco-meraki)
+    >- [Google Australia](./learnJournal.md#advertisment-two-google-australia)
+
 
 
 ## Job Market Analysis
@@ -21,6 +24,7 @@ This is the sort of work I would be interested in due to my personal interest in
 Due to Cisco Meraki being a large company, the majority of recruitment is done through their HR department and [Jobs Portal](https://jobs.cisco.com/), although there is a potential employee social network/messageboard in the form of the [We Are Cisco Blog](https://www.cisco.com/c/en/us/about/careers/we-are-cisco/social-and-blog.html).
 Cisco Meraki has advertised current internships on [UTS CareerHub](https://careerhub.uts.edu.au/students/jobs/detail/4657200/network-support-engineer-inter), which are approved by FEIT.
 
+#### Example Cover Letter
 
 
 ### Advertisment Two: Google Australia
@@ -31,3 +35,6 @@ Google is responsible for some of the most accessed sites on the internet, such 
 I feel this would be a worthwhile opportunity as Google's significant resources allow them to use cutting edge hardware and technology, whilst still being able to maintain the agility of smaller businesses.
 
 Due to Google's size, recruitment is managed by their internal HR department and external recruiters. Job postings amd vacancies can also be found on websites such as [indeed](https://au.indeed.com/viewjob?jk=ae309f500ef5a588&tk=1d1simcu4107j003&from=serp&vjs=3).
+
+
+#### Example Cover Letter
