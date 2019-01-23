@@ -5,8 +5,8 @@ layout: default
 
 ### List of Entries
 >- [Job Market Analysis](./learnJournal.md#job-market-analysis)
-    >- [Cisco Meraki](./learnJournal.md#advertisment-one-cisco-meraki)
-    >- [Google Australia](./learnJournal.md#advertisment-two-google-australia)
+    - [Cisco Meraki](./learnJournal.md#advertisment-one-cisco-meraki)
+    - [Google Australia](./learnJournal.md#advertisment-two-google-australia)
 
 
 
