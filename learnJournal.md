@@ -20,7 +20,7 @@ I also collected some information booklets and brochures from the businesses att
 
 Although I was unsuccessful in finding any industry contacts, I still found the event useful as it helped me to find out what positions existed within the industry, and the types of companies that were hiring. it also gave me insight into the sorts of tasks that engineers perform as part of their roles, such as System Admins deploying virtual machines for their clients.
 
-![Career Fair Goodies](https://github.com/13197963/13197963.github.io/blob/master/assets/images/careerFair.JPG)
+![Career Fair Goodies](./assets/images/careerFair.JPG)
 
 
 
