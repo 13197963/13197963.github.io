@@ -20,6 +20,17 @@ A more rigid form of learning in the workplace is through extra training, whethe
 
 1c SMART Goals
 
+What do you want to learn: Additional programming languages, such as C++
+This can be achieved using online learning websites such as codeacademy
+
+How can you measure progress and know fi you have successfully met your goals: Codeacademy gives a % complete measure, as well as a certificate upon completion of the course.
+
+Are you capable of achieving the goal: I believe I am capable of doing this as I have completed other courses on codeacademy, and I have experience with similar programming languages.
+
+
+The main benefit of this is the ability to better work in workplaces that use C++, as opposed to other programming languages
+
+There is no direct timescale for this activity, as it is more of an ease of integration into the workforce thing. As such this can be completed any time up until I actually commence working somewhere. 
 
 
 3a
