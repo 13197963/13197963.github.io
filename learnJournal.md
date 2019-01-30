@@ -13,9 +13,14 @@ layout: default
 
 
 ## Careers Fair
-In order to learn more about the career paths available to me I attended one of the FEIT Careers Fairs organised by UTS Careers in Building 1.
+In order to learn more about the career paths available to me I attended one of the STEM Careers Fairs organised by UTS Careers in Building 1.
 As this event was more focused on pathways for students nearing graduation, I used it as a way to find out what companies were employing young engineers, as well as what sort of engineers they were looking to employ (in terms of technical background, as well as experience and personality).
 
+I also collected some information booklets and brochures from the businesses attending, however very few of the companies were looking for my skillset, and even fewer still were looking to talk to someone with so many years left in their degree (one of the representatives literally tutted at me and proceeded to ignore me).
+
+Although I was unsuccessful in finding any industry contacts, I still found the event useful as it helped me to find out what positions existed within the industry, and the types of companies that were hiring. it also gave me insight into the sorts of tasks that engineers perform as part of their roles, such as System Admins deploying virtual machines for their clients.
+
+![Career Fair Goodies](./assets/images/careerFair.JPG)
 
 
 
