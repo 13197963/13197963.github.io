@@ -5,6 +5,9 @@ layout: default
 
 ### List of Entries
 >- [Careers Fair](./learnJournal.md#careers-fair)
+>- [Week By Week]()
+    - [Week 1]()
+    - [Week 2]()
 >- [Job Market Analysis](./learnJournal.md#job-market-analysis)
     - [Cisco Meraki](./learnJournal.md#advertisment-one-cisco-meraki)
     - [Google Australia](./learnJournal.md#advertisment-two-google-australia)
@@ -21,6 +24,16 @@ I also collected some information booklets and brochures from the businesses att
 Although I was unsuccessful in finding any industry contacts, I still found the event useful as it helped me to find out what positions existed within the industry, and the types of companies that were hiring. it also gave me insight into the sorts of tasks that engineers perform as part of their roles, such as System Admins deploying virtual machines for their clients.
 
 ![Career Fair Goodies](./assets/images/careerFair.JPG)
+
+
+## Week By Week
+
+### Week 1
+
+
+
+### Week 2
+
 
 
 
