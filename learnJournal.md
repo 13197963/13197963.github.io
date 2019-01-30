@@ -45,7 +45,7 @@ Google is responsible for some of the most accessed sites on the internet, such 
 
 I feel this would be a worthwhile opportunity as Google's significant resources allow them to use cutting edge hardware and technology, whilst still being able to maintain the agility of smaller businesses.
 
-Due to Google's size, recruitment is managed by their internal HR department and external recruiters. Job postings and vacancies can also be found on websites such as [indeed](https://au.indeed.com/viewjob?jk=ae309f500ef5a588&tk=1d1simcu4107j003&from=serp&vjs=3).
+Due to Google's size, recruitment is managed by their internal HR department and external recruiters. Job postings and vacancies can also be found on websites such as [Indeed](https://au.indeed.com/viewjob?jk=29e1170cd24c765d&tk=1d2gck83510ad003&from=serp&vjs=3).
 
 
 #### Example Cover Letter
