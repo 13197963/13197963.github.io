@@ -38,6 +38,7 @@ Although I was unsuccessful in finding any industry contacts, I still found the 
 
 ### Week 2
 
+No lecture this week due to Australia Day.
 
 ### Week 3
 
