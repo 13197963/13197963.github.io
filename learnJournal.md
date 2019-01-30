@@ -5,9 +5,9 @@ layout: default
 
 ### List of Entries
 >- [Careers Fair](./learnJournal.md#careers-fair)
->- [Week By Week]()
-    - [Week 1]()
-    - [Week 2]()
+>- [Week By Week](./learnJournal.md#week-by-week)
+    - [Week 1](./learnJournal.md#week-1)
+    - [Week 2](./learnJournal.md#week-2)
 >- [Job Market Analysis](./learnJournal.md#job-market-analysis)
     - [Cisco Meraki](./learnJournal.md#advertisment-one-cisco-meraki)
     - [Google Australia](./learnJournal.md#advertisment-two-google-australia)
