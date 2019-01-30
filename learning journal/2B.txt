@@ -32,7 +32,7 @@ Learning can also be achieved as a by-product of work processes:
 What do you want to learn: Additional programming languages, such as C++
 This can be achieved using online learning websites such as codeacademy
 
-How can you measure progress and know fi you have successfully met your goals: Codeacademy gives a % complete measure, as well as a certificate upon completion of the course.
+How can you measure progress and know if you have successfully met your goals: Codeacademy gives a % complete measure, as well as a certificate upon completion of the course.
 
 Are you capable of achieving the goal: I believe I am capable of doing this as I have completed other courses on codeacademy, and I have experience with similar programming languages.
 

@@ -8,6 +8,10 @@ layout: default
 >- [Week By Week](./learnJournal.md#week-by-week)
     - [Week 1](./learnJournal.md#week-1)
     - [Week 2](./learnJournal.md#week-2)
+    - [Week 3](./learnJournal.md#week-3)
+    - [Week 4](./learnJournal.md#week-4)
+    - [Week 5](./learnJournal.md#week-5)
+    - [Week 6](./learnJournal.md#week-6)
 >- [Job Market Analysis](./learnJournal.md#job-market-analysis)
     - [Cisco Meraki](./learnJournal.md#advertisment-one-cisco-meraki)
     - [Google Australia](./learnJournal.md#advertisment-two-google-australia)
@@ -33,6 +37,21 @@ Although I was unsuccessful in finding any industry contacts, I still found the 
 
 
 ### Week 2
+
+
+### Week 3
+
+
+### Week 4
+
+
+### Week 5
+
+
+### Week 6
+
+
+
 
 
 
