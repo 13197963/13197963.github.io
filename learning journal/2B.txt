@@ -1,0 +1,53 @@
+2B
+
+1a Collins
+
+The main ways people learn in the workplace are:
+
+informal/incidental - People learn in order to complete tasks and projects that they have been assigned, rather than with the direct intent ot learn
+experimental - People in a workplace learn by doing, and by seeing what ideas do and do not work.
+context bound - People learn by their context, i.e. by what the people around them know and understand, as it is their interactions with others knowledge and ideas that helps to shape their own understanding of different concepts. Organisational goals and structure also influence this, as different groups within the workplace may be aiming to interpret the results from ideas and experiments in their own way (i.e. salemen looking for a point that is potentially sellable).
+
+Another main way that people learn in the workplace, is from 'sink or swim' style events where they are dropped into the deep end on a existing project, where they are expected to learn the minutiae of a system very quickly in order to fill their role within the project.
+It is also possible for people to learn through their interactions outside the workplace, such as if they have a personal interest in things similar to that which they are working on duing work hours (i.e. a telecommunication engineer having an interest in remote control helicopters).
+A more rigid form of learning in the workplace is through extra training, whether that be from returning to tertiary education, or be from reciving competency from an RTO.
+
+
+1b Eraut
+
+
+
+
+1c SMART Goals
+
+What do you want to learn: Additional programming languages, such as C++
+This can be achieved using online learning websites such as codeacademy
+
+How can you measure progress and know fi you have successfully met your goals: Codeacademy gives a % complete measure, as well as a certificate upon completion of the course.
+
+Are you capable of achieving the goal: I believe I am capable of doing this as I have completed other courses on codeacademy, and I have experience with similar programming languages.
+
+
+The main benefit of this is the ability to better work in workplaces that use C++, as opposed to other programming languages
+
+There is no direct timescale for this activity, as it is more of an ease of integration into the workforce thing. As such this can be completed any time up until I actually commence working somewhere. 
+
+
+3a
+What professional bodies are there in your field of practice: The main bodies in my field of practice are Engineers Australia, and the Institute of Electrical and Electronics Engineers.
+What services and opportunities do they offer for student members? Both of these organisations offer newsletters and informational events that students can attend. Students also recieve free membership to EA. There are also events hosted by other organsations that allows no just students, but also professional engineers to network and collaborate with eachother.
+My intention of interacting with these organisations is by signing up to their student membership, and reading their newsletters to see if there are any networking events that interest me, as there is little point to just going to every event that they have going on, due to time constraints and also that not all events may be useful due to differenting themes/topics.
+
+3b
+What associations are there in your field of practice at the university? The main society for engineers within UTS is the Engineering Society, however this is quite a broad group within the society as it covers all Engineering majors. They do offer networking events, however there are none coming up that would be much use to me.
+My action plan is to continue attending the occasional event that is hosted by EngSoc, as it serves as a way to meet new people, and sometimes form new professional networks.
+
+3c
+What volunteering or assistance opportunities are there at the university? There are peer tutoring and representative roles available within the university, which help to show social/communication skills, as well as providing social capital and the chance to meet and network with professionals.
+My action plan is to remain a promotional representative (SproUTS), as well as assisting my professor in his research work, both of which will help me to gain exposure to potential engineering networks.
+
+
+4
+How might you sue social media to get connected with some of the professionals or hiring manager you have identified in your Job Market Analysis?
+Social media platforms such as LinkedIn provide a way of presenting your professional and technical skills to hiring agents within the workforce. Hiring/recruiters sometimes look for people using these services, so it is important to keep them up to date.
+Using more mainstream social media such as facebook, allows you to find events that are being hosted by companies, allowing you to potentially meet people from the company you are interested in, allowing you to build networks.
