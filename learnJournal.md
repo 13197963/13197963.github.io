@@ -34,6 +34,7 @@ Although I was unsuccessful in finding any industry contacts, I still found the 
 
 ### Week 1
 
+Week one was spent familiarising myself with the subject and what is expected throughout. It also included learning about the other members of my activity group, which I feel is important as it is our group members who will be giving feedback and constructive criticism on our resumes before assessments, and as such understanding their background and what they expect to get out of the subject is important as it shapes what responses they will give you on your work. Additionally it allows you to shape any feedback you have to give to them, in order for it to not be taken in the wrong way. I found the idea of the different types of capital to be interesting as the majority of people tend to think about what they believe they are worth, and what a company or job can do for them. While this is important, what you bring to the company and what the company believes you are worth are more important (human capital), as the company is the one who gets to decide who is hired and who is not. An individual must use their access to the other types of capital to help improve their percieved worth to a company (i.e. cultural capital can be slightly improved through the way that you dress, carry yourself, and interact with others), or to help gain opportunities that they may not have otherwise (i.e. social capital and your professional and personal networks can be used to find out about roles that may not be promoted as being vacant or hiring).
 
 
 ### Week 2
