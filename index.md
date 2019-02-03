@@ -3,7 +3,7 @@ layout: default
 ---
 # About Me
 
-Hi, I'm Daniel a second year Engineer majoring in Data Engineering.                                                                             ![Photo](./assets/images/Website_Photo.png)
+Hi, I'm Daniel a second year Engineer majoring in Data Engineering. <div align="right"><img src="/assets/images/Website_Photo.png" alt ="Photo"></div>
 
 The first question I always get when I tell people I'm doing Data Engineering is what is Data Engineering?
 At its core Data Engineering is the study of collection of data, data transmission and storage, and the manipulation and understanding of data.
