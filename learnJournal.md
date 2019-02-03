@@ -27,6 +27,9 @@ I also collected some information booklets and brochures from the businesses att
 
 Although I was unsuccessful in finding any industry contacts, I still found the event useful as it helped me to find out what positions existed within the industry, and the types of companies that were hiring. it also gave me insight into the sorts of tasks that engineers perform as part of their roles, such as System Admins deploying virtual machines for their clients.
 
+Comment on social media:
+Although social media is prevalent throughout the industry, and has its place in networking with contacts and potential employers, there is a risk associated with putting yourself out there. This can include disqualification form job applications due to offensive or inappropriate posts, coworkers finding information you would prefer to keep secret, or your boss seeing every time you've complained about them or your job. Social media is a powerful tool if used correctly, however care and consideration must be taken in choosing what you post, and who can see what you post.
+
 ![Career Fair Goodies](./assets/images/careerFair.JPG)
 
 
@@ -40,6 +43,9 @@ Week one was spent familiarising myself with the subject and what is expected th
 ### Week 2
 
 No lecture this week due to Australia Day.
+The majority of this week was spent working on resume writing, and getting my resume through the "rate my resume" system. The main thing I took away from this, is that although terms like "assisted" may help to give an accurate representation of what you did in a role, they appear weak or as if you were not the one doing the actual work. Instead you're better off stating the things you were directly responsible for, and using more active "strong" phrases, such as led, created, and developed.
+
+I additionally had a lot of difficulty with the automatic grading system, in that it was saying there were differences between the formatting of paragraphs, when the paragraphs were completely identical. This was solved by rephrasing how date information was stated in the document, as as best I could tell, the system was throwing a false negative.
 
 ### Week 3
 
