@@ -3,7 +3,8 @@ layout: default
 ---
 # About Me
 
-Hi, I'm Daniel a second year Engineer majoring in Data Engineering!
+Hi, I'm Daniel a second year Engineer majoring in Data Engineering. <img align="right" src="/assets/images/Website_Photo.png" alt ="Photo">
+
 
 The first question I always get when I tell people I'm doing Data Engineering is what is Data Engineering?
 
