@@ -5,13 +5,7 @@ layout: default
 
 ### List of Entries
 >- [Careers Fair](./learnJournal.md#careers-fair)
->- [Week By Week](./learnJournal.md#week-by-week)
-    - [Week 1](./learnJournal.md#week-1)
-    - [Week 2](./learnJournal.md#week-2)
-    - [Week 3](./learnJournal.md#week-3)
-    - [Week 4](./learnJournal.md#week-4)
-    - [Week 5](./learnJournal.md#week-5)
-    - [Week 6](./learnJournal.md#week-6)
+
 >- [Job Market Analysis](./learnJournal.md#job-market-analysis)
     - [Cisco Meraki](./learnJournal.md#advertisment-one-cisco-meraki)
     - [Google Australia](./learnJournal.md#advertisment-two-google-australia)
@@ -33,31 +27,24 @@ Although social media is prevalent throughout the industry, and has its place in
 ![Career Fair Goodies](./assets/images/careerFair.JPG)
 
 
-## Week By Week
+## Elective Journal Entries
 
-### Week 1
+### Entry 1
 
 Week one was spent familiarising myself with the subject and what is expected throughout. It also included learning about the other members of my activity group, which I feel is important as it is our group members who will be giving feedback and constructive criticism on our resumes before assessments, and as such understanding their background and what they expect to get out of the subject is important as it shapes what responses they will give you on your work. Additionally it allows you to shape any feedback you have to give to them, in order for it to not be taken in the wrong way. I found the idea of the different types of capital to be interesting as the majority of people tend to think about what they believe they are worth, and what a company or job can do for them. While this is important, what you bring to the company and what the company believes you are worth are more important (human capital), as the company is the one who gets to decide who is hired and who is not. An individual must use their access to the other types of capital to help improve their percieved worth to a company (i.e. cultural capital can be slightly improved through the way that you dress, carry yourself, and interact with others), or to help gain opportunities that they may not have otherwise (i.e. social capital and your professional and personal networks can be used to find out about roles that may not be promoted as being vacant or hiring).
 
+These different types of capital all play into the development of an "engineering identity", falling under the umbrella of "navigating the formal and informal pathways into the profession", as described in Schell, W. & Hughes, B. 2017. This does however show that while the different types of capital are important to an engineer's career, especially in terms of finding employment, they are not the be all and end all of an engineer's personal development. An engineer should aim to be continually developing not just their capital, but their engineering identity as a whole, whether that be from learning new things, learning about opportunities within the field, or by gaining recognition from their peers.
 
-### Week 2
+
+
+
+
+### Entry 2
 
 No lecture this week due to Australia Day.
 The majority of this week was spent working on resume writing, and getting my resume through the "rate my resume" system. The main thing I took away from this, is that although terms like "assisted" may help to give an accurate representation of what you did in a role, they appear weak or as if you were not the one doing the actual work. Instead you're better off stating the things you were directly responsible for, and using more active "strong" phrases, such as led, created, and developed.
 
 I additionally had a lot of difficulty with the automatic grading system, in that it was saying there were differences between the formatting of paragraphs, when the paragraphs were completely identical. This was solved by rephrasing how date information was stated in the document, as as best I could tell, the system was throwing a false negative.
-
-### Week 3
-
-
-### Week 4
-
-
-### Week 5
-
-
-### Week 6
-
 
 
 
@@ -91,6 +78,3 @@ Google is responsible for some of the most accessed sites on the internet, such 
 I feel this would be a worthwhile opportunity as Google's significant resources allow them to use cutting edge hardware and technology, whilst still being able to maintain the agility of smaller businesses.
 
 Due to Google's size, recruitment is managed by their internal HR department and external recruiters. Job postings and vacancies can also be found on websites such as [Indeed](https://au.indeed.com/viewjob?jk=29e1170cd24c765d&tk=1d2gck83510ad003&from=serp&vjs=3).
-
-
-#### Example Cover Letter
