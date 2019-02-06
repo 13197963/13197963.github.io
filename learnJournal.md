@@ -5,7 +5,10 @@ layout: default
 
 ### List of Entries
 >- [Careers Fair](./learnJournal.md#careers-fair)
-
+>- [Elective Learning Journals](./learnJournal.md#elective-journal-entries)
+    >- [Entry 1](./learnJournal.md#entry-1)
+    >- [Entry 2](./learnJournal.md#entry-2)
+    >- [Entry 3](./learnJournal.md#entry-3)
 >- [Job Market Analysis](./learnJournal.md#job-market-analysis)
     - [Cisco Meraki](./learnJournal.md#advertisment-one-cisco-meraki)
     - [Google Australia](./learnJournal.md#advertisment-two-google-australia)
