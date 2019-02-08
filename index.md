@@ -13,18 +13,37 @@ At its core Data Engineering is the study of collection of data, data transmissi
 I normally then get asked, what does that actually mean though?
 
 I make the programs that create and collect data from the world around us.
+
 I make the software and networks that send and store that data.
+
 I do the analysis to find trends and correlations within the data.  
+
+## Education
+
+University of Technology Sydney - Bachelor of Engineering (Data) (Honours) & Diploma of Professional Engineering Practice (January 2018 - December 2022 (Expected))
+
+Ryde Secondary College - HSC - (January 2012 - December 2017)
+
+
 
 ## Skills
 
+Programming Languages: C, Python, HTML, CSS
 
+Databases: SQL and Microsoft Access
+
+Word Processing: Microsoft Word, Adobe Acrobat and Nano
+
+Operating Systems: Windows (XP, Vista, 8(.1), 10), Mac (OSX), Linux (Ubuntu, Raspbian)
+
+Analytics: Excel, MatLab, MiniTab and Knime
 
 
 ## Prior Experience
 
+Big W, Top Ryde CIty - Customer Care Associate
 
-
+Toshiba Asia Pacific, Macquarie Park - Work Experience
 
 
 ## Personal Interests
