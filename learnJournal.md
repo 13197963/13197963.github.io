@@ -5,8 +5,8 @@ layout: default
 
 ### List of Entries
 >- [Careers Fair](./learnJournal.md#careers-fair)
->- [Professional Assessment Activity 1](./learnJournal.md#)
->- [Professional Assessment Activity 2](./learnJournal.md#)
+>- [Professional Assessment Activity 1](./learnJournal.md#professional-assessment-activity-1)
+>- [Professional Assessment Activity 2](./learnJournal.md#professional-assessment-activity-2)
 >- [Elective Learning Journals](./learnJournal.md#elective-journal-entries)
     >- [Entry 1](./learnJournal.md#entry-1)
     >- [Entry 2](./learnJournal.md#entry-2)

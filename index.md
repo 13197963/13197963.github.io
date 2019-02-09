@@ -41,7 +41,7 @@ Analytics: Excel, MatLab, MiniTab and Knime
 
 ## Prior Experience
 
-Big W, Top Ryde CIty - Customer Care Associate
+Big W, Top Ryde City - Customer Care Associate
 
 Toshiba Asia Pacific, Macquarie Park - Work Experience
 
