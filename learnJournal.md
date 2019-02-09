@@ -5,6 +5,8 @@ layout: default
 
 ### List of Entries
 >- [Careers Fair](./learnJournal.md#careers-fair)
+>- [Professional Assessment Activity 1](./learnJournal.md#)
+>- [Professional Assessment Activity 2](./learnJournal.md#)
 >- [Elective Learning Journals](./learnJournal.md#elective-journal-entries)
     >- [Entry 1](./learnJournal.md#entry-1)
     >- [Entry 2](./learnJournal.md#entry-2)
@@ -28,6 +30,14 @@ Although social media is prevalent throughout the industry, and has its place in
 ![Career Fair Goodies](./assets/images/careerFair.JPG)
 
 
+## Professional Assessment Activity 1
+
+
+
+## Professional Assessment Activity 2
+
+
+
 ## Elective Journal Entries
 
 ### Entry 1
@@ -39,15 +49,9 @@ These different types of capital all play into the development of an "engineerin
 
 
 
-
 ### Entry 2
 
-No lecture this week due to Australia Day.
-The majority of this week was spent working on resume writing, and getting my resume through the "rate my resume" system. The main thing I took away from this, is that although terms like "assisted" may help to give an accurate representation of what you did in a role, they appear weak or as if you were not the one doing the actual work. Instead you're better off stating the things you were directly responsible for, and using more active "strong" phrases, such as led, created, and developed.
-
-I additionally had a lot of difficulty with the automatic grading system, in that it was saying there were differences between the formatting of paragraphs, when the paragraphs were completely identical. This was solved by rephrasing how date information was stated in the document, as as best I could tell, the system was throwing a false negative.
 
 
-
-
+### Entry 3
 
