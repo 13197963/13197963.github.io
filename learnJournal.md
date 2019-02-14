@@ -17,6 +17,7 @@ layout: default
 
 
 ## Careers Fair
+08/02/19
 In order to learn more about the career paths available to me I attended one of the STEM Careers Fairs organised by UTS Careers in Building 1.
 As this event was more focused on pathways for students nearing graduation, I used it as a way to find out what companies were employing young engineers, as well as what sort of engineers they were looking to employ (in terms of technical background, as well as experience and personality).
 
@@ -31,7 +32,19 @@ Although social media is prevalent throughout the industry, and has its place in
 
 
 ## Professional Assessment Activity 1
+15/02/19
 
+Ullman levels:
+a) recound/description
+b)react/feelings
+c) personal beliefs
+d) recognising difficulties
+e) perspective: relate/research
+f) lessons learned & future intentions/outcomes
+
+The purpose of Professional Assessment Activity 1 is to allow students to practice giving and receiving feedback, as well as allowing them to checkpoint their progress on their ePortfolios. In our activity group members went in order receiving feedback from other group members, demonstrating what they thought could be improved upon on the actual ePortfolio where possible.
+
+I feel that this was an extremely beneficial task for the most part, as people tend to fixate on smaller things within the task at hand, which can cause them to miss out or neglect other areas. This tunnel vision can be countered by a fresh set of eyes that do not have any prior exposure to the work that has been done. This is especially important in assessment tasks, as failure to include all necessary sections can result in significant mark loss.
 
 
 ## Professional Assessment Activity 2
@@ -41,7 +54,7 @@ Although social media is prevalent throughout the industry, and has its place in
 ## Elective Journal Entries
 
 ### Entry 1
-
+01/02/19
 Week one was spent familiarising myself with the subject and what is expected throughout. It also included learning about the other members of my activity group, which I feel is important as it is our group members who will be giving feedback and constructive criticism on our resumes before assessments, and as such understanding their background and what they expect to get out of the subject is important as it shapes what responses they will give you on your work. Additionally it allows you to shape any feedback you have to give to them, in order for it to not be taken in the wrong way. I found the idea of the different types of capital to be interesting as the majority of people tend to think about what they believe they are worth, and what a company or job can do for them. While this is important, what you bring to the company and what the company believes you are worth are more important (human capital), as the company is the one who gets to decide who is hired and who is not. An individual must use their access to the other types of capital to help improve their percieved worth to a company (i.e. cultural capital can be slightly improved through the way that you dress, carry yourself, and interact with others), or to help gain opportunities that they may not have otherwise (i.e. social capital and your professional and personal networks can be used to find out about roles that may not be promoted as being vacant or hiring).
 
 These different types of capital all play into the development of an "engineering identity", falling under the umbrella of "navigating the formal and informal pathways into the profession", as described in Schell, W. & Hughes, B. 2017. This does however show that while the different types of capital are important to an engineer's career, especially in terms of finding employment, they are not the be all and end all of an engineer's personal development. An engineer should aim to be continually developing not just their capital, but their engineering identity as a whole, whether that be from learning new things, learning about opportunities within the field, or by gaining recognition from their peers.

@@ -25,8 +25,10 @@ University of Technology Sydney - Bachelor of Engineering (Data) (Honours) & Dip
 Ryde Secondary College - HSC - (January 2012 - December 2017)
 
 
+## Team Skills
 
-## Skills
+
+## Technical Skills
 
 Programming Languages: C, Python, HTML, CSS
 
