@@ -2,7 +2,6 @@
 
 ### Entries
 >- [Cisco Meraki](./marketAnalysis.md#advertisment-one-cisco-meraki)
-    >- [Sample Cover Letter](./marketAnalysis.md#example-cover-letter)
 >- [Google Australia](./marketAnalysis.md#advertisment-two-google-australia)
 
 
