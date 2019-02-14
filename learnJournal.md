@@ -35,16 +35,21 @@ Although social media is prevalent throughout the industry, and has its place in
 15/02/19
 
 Ullman levels:
-a) recound/description
-b)react/feelings
-c) personal beliefs
-d) recognising difficulties
+a) recound/description x
+b) react/feelings x
+c) personal beliefs x
+d) recognising difficulties x
 e) perspective: relate/research
 f) lessons learned & future intentions/outcomes
 
 The purpose of Professional Assessment Activity 1 is to allow students to practice giving and receiving feedback, as well as allowing them to checkpoint their progress on their ePortfolios. In our activity group members went in order receiving feedback from other group members, demonstrating what they thought could be improved upon on the actual ePortfolio where possible.
 
 I feel that this was an extremely beneficial task for the most part, as people tend to fixate on smaller things within the task at hand, which can cause them to miss out or neglect other areas. This tunnel vision can be countered by a fresh set of eyes that do not have any prior exposure to the work that has been done. This is especially important in assessment tasks, as failure to include all necessary sections can result in significant mark loss.
+
+While taking on feedback can be difficult, especially if both parties are not on the same page about what is expected, it is important that both parrties are able to come to some form of agreement as to the severity of the problem raised, and what a viable solution would be. I attempted to achieve this in the group activity by using the Positive-Improve-Positive or "Feedback Sandwich" method, as described in Feedback Sandwich (Bow Valley College, 2013), however this did not entirely stop disagreements from occuring. I feel that these difficulties came frfom a differing understanding of what was expected of us for the assessment.
+
+
+Bow Valley College 2013, Feedback Sandwich, videorecording, Youtube, viewed 02 February 2019, <https://www.youtube.com/watch?v=NO34pZvCg_s>
 
 
 ## Professional Assessment Activity 2

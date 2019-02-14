@@ -1,9 +1,9 @@
 # Job Market Analysis
 
 ### Entries
->- [Cisco Meraki]()
-    >- [Sample Cover Letter]()
->- [Google Australia]()
+>- [Cisco Meraki](./marketAnalysis.md#advertisment-one-cisco-meraki)
+    >- [Sample Cover Letter](./marketAnalysis.md#example-cover-letter)
+>- [Google Australia](./marketAnalysis.md#advertisment-two-google-australia)
 
 
 
