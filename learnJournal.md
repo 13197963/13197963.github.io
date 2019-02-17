@@ -44,6 +44,7 @@ While taking on feedback can be difficult, especially if both parties are not on
 
 I feel that in order to maximise what everyone gets out of this activity it is best that everyone has defined what they believe to be important for the assessment/ePortfolio in terms of content and quality, with the group coming to some form of consensus on this as an overall marking baseline. Additionally team members should make their ePortfolios available as early as possible in order for proper time and consideration to be given for each ePortfolio. These are things that I will discuss with my group mates when we next meet.
 
+![Photo of the Group](./assets/images/Assessment1.jpg)
 
 [Assessment Activity Worksheet](./assets/prof_asses_1.pdf)
 
