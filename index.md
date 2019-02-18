@@ -27,6 +27,10 @@ Ryde Secondary College - HSC - (January 2012 - December 2017)
 
 ## Team Skills
 
+Ability to communicate complex technical ideas and concepts with those who have little or no technical background
+
+Experienced in acting as a go-between for customers and other staff
+
 
 ## Technical Skills
 
@@ -43,9 +47,21 @@ Analytics: Excel, MatLab, MiniTab and Knime
 
 ## Prior Experience
 
-Big W, Top Ryde City - Customer Care Associate
+Research Engineer - University of Technology Sydney
 
-Toshiba Asia Pacific, Macquarie Park - Work Experience
+Student Promotions Representative - University of Technology Sydney
+
+Customer Care Associate - Big W, Top Ryde City
+
+Work Experience - Toshiba Asia Pacific, Macquarie Park
 
 
 ## Personal Interests
+
+Soccer - Club Level
+
+Computer Assembly
+
+Trumpet - Member of High School Jazz Band
+
+Cooking
