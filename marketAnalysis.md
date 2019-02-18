@@ -22,8 +22,13 @@ Cisco Meraki has advertised current internships on [UTS CareerHub](https://caree
 
 
 ### Advertisment Two: IBM Australia
+IBM is a multinational technology company offering infrastructure, software, and cloud compute solutions.
 
+Recent projects in Australia include the migration of Mitsubishi Motors Australia to IBM Cloud. This use of IBM's cloud services allowed for higher uptime, as well as increasing scalability due to the system being hosted in the cloud.
 
+This is the type of work I would be interested in due to my prior experience with cloud (AWS) and SaaS (SAP) systems, as well as the physical infrastructure and networks that allow these systems to function and maintain their high uptime.
+
+Applications for the IBM internship program are done through both indeed and IBM's own website.
 
 
 #### Example Cover Letter
