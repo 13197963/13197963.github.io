@@ -2,7 +2,8 @@
 
 ### Entries
 >- [Cisco Meraki](./marketAnalysis.md#advertisment-one-cisco-meraki)
->- [Google Australia](./marketAnalysis.md#advertisment-two-google-australia)
+>- [IBM Australia](./marketAnalysis.md#advertisment-two-ibm-australia)
+>- [Google Australia](./marketAnalysis.md#advertisment-three-google-australia)
 
 
 
@@ -20,8 +21,16 @@ Cisco Meraki has advertised current internships on [UTS CareerHub](https://caree
 
 
 
+### Advertisment Two: IBM Australia
 
-### Advertisment Two: Google Australia
+
+
+
+#### Example Cover Letter
+
+
+
+### Advertisment Three: Google Australia
 Google is a multinational technologie company specialising in scalable business tools, SEO, data storage, and data analytics.
 
 Google is responsible for some of the most accessed sites on the internet, such as Gmail, Google Search, and Youtube. Google for Business also offer scalable systems that work with everything from small businesses to organisations with hundreds of thousands of employees.
