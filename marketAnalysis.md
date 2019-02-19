@@ -33,6 +33,7 @@ Applications for the IBM internship program are done through both indeed and IBM
 
 #### Example Cover Letter
 
+[PDF Cover Letter](./assets/Daniel_Osmond_IBM.pdf)
 
 
 ### Advertisment Three: Google Australia
