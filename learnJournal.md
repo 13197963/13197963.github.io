@@ -10,7 +10,7 @@ layout: default
 >- [Elective Learning Journals](./learnJournal.md#elective-journal-entries)
     >- [Entry 1](./learnJournal.md#entry-1)
     >- [Entry 2](./learnJournal.md#entry-2)
-    >- [Entry 3 - Critical Incident Summary](./learnJournal.md#entry-3)
+    >- [Entry 3 - Critical Incident Summary](./learnJournal.md#entry-3---critical-incident-summary)
 
 
 
@@ -78,17 +78,22 @@ At the factory a close family member works at there was a severe safety incident
 
 The contractors arrived on site to perform maintenance and cleaning on an industrial mixer. Before commencing work the contractors checked with staff on site to ensure that the equipment was correctly locked and tagged out in accordance with standard operating procedures in the event of maintenance needing to be performed. One of the on site technicians assured them that the equipment was disabled, however this was not actually the case. Although it is not yet entirely clear as to where negligence occured, it quickly became evident that the electrical supply to the mixer had not been disconnected and tagged out. This particular mixer was fitted with a system that automatically started operation of the system once weight was detected inside the mixer (with the assumption being that something to be mixed had been added to the system). This meant that when that one of the contractors entered the mixer to begin maintenance, the mixing blades began to spin, severely injuring the first contractor. The second contractor then climbed into the mixer in order to assist the first contractor. This resulted in the second contractor also sustaining injuries, while the first passed away due to his injuries. The third contractor then attempted to pull the other two contractors out, and was dragged into the mixer, resulting in him also sustaining injuries. The machine was only stopped when a staff member who worked with the mixer pressed the emergency stop. The contractors were only able to be removed from the mixer once emergency services arrived on site.
 
-Critical Incident Questions:
+#### Critical Incident Questions:
+
 Who are the participants?
+
 Members of staff from the company, the contractors, emergency services.
 
 What was critical about this incident?
+
 This incident was critical due to the loss of life, serious injury, and failing of safety protocols and how we can learn to prevent things like this from occuring in the workplace.
 
 How was the confidentiality of the participants protected?
+
 Although this incident was highly publicised at the time of occurance, with the events that unfolded and names of those involved being public knowledge, in this summary no names of companies, individuals, or specifics as to the type of work occuring at the factory were used. This is important as to the best of my knowledge the results of the SafeWork inquiry have not yet been published.
 
 What can be learned from this critical incident? Why is it significant?
+
 The main point that can be learned from this critical incident is to not take shortcuts and make assumptions with safety. Although trusting others and what they say is important, it is much better to come off as slightly rude and be safe, rather than be involved in an event such as this.
 In this case this could have been achieved by the contractors inspecting the system to ensure that it was correctly disabled.
 Another factor in this incident was that neither the second or third contractor knew of the location and operation of the emergency stop system, which is why it took so long for the system to be stopped, and why all three of the contractors ended up being injured.
