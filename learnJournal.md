@@ -6,10 +6,10 @@ layout: default
 ### List of Entries
 >- [Professional Assessment Activity 1](./learnJournal.md#professional-assessment-activity-1)
 >- [Professional Assessment Activity 2](./learnJournal.md#professional-assessment-activity-2)
->- [Subject Learning Objectives](./learnJournal.md#)
+>- [Subject Learning Objectives](./learnJournal.md#subject-learning-objectives)
 >- [Elective Learning Journals](./learnJournal.md#elective-journal-entries)
-    >- [Entry 1](./learnJournal.md#entry-1)
-    >- [Entry 2](./learnJournal.md#entry-2)
+    >- [Entry 1 - Understanding of Capital](./learnJournal.md#entry-1---understanding-of-capital)
+    >- [Entry 2 - Careers Fair](./learnJournal.md#entry-2---careers-fair)
     >- [Entry 3 - Critical Incident Summary](./learnJournal.md#entry-3---critical-incident-summary)
 
 
@@ -49,7 +49,7 @@ Bow Valley College 2013, Feedback Sandwich, videorecording, Youtube, viewed 02 F
 
 
 
-### Document and Communicate their Capabilities to Contribute to a Workplace and Engage in Workplace Learning
+### Objective 2 - Document and Communicate their Capabilities to Contribute to a Workplace and Engage in Workplace Learning
 
 
 
