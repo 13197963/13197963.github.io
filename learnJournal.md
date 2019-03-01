@@ -25,6 +25,18 @@ layout: default
 
 The purpose of Professional Assessment Activity 1 is to allow students to practice giving and receiving feedback, as well as allowing them to checkpoint their progress on their ePortfolios. In our activity group members went in order receiving feedback from other group members, demonstrating what they thought could be improved upon on the actual ePortfolio where possible.
 
+All included feedback is in the attached PDF, however there were only a few items that were absolutely critical in order to improve the quality of my ePortfolio:
+1. Making my resume easier to access
+2. Increase the overall detail level, especially in terms of the "About Me" section
+3. Improvement of subject headings
+4. Inclusion of all necessary sections
+
+Although not all of these tasks were 100% completed by the end of the week I felt that it was important to at least begin to address them, as I find it makes it easier to continue on later with an outline, rather than down the line having to go back and figure out what everything meant. The issues were addressed as follows:
+1. Resume was converted to a single PDF, rather than having a zipped folder with resume, transcript, and references.
+2. Detail was first improved in new additions to the portfolio, then later on was improved in existing entries.
+3. All subject headings were added, regardless of if there was content to put under them, subject headings that did have entries had additional detail added to them in order to indicate what they were.
+4. By the addition of all subject headings in point 3, it became easier to see which sections were present, and which still needed to be worked on (although not all were needed to be completed at this point). 
+
 I feel that this was an extremely beneficial task for the most part, as people tend to fixate on smaller things within the task at hand, which can cause them to miss out or neglect other areas. This tunnel vision can be countered by a fresh set of eyes that do not have any prior exposure to the work that has been done. This is especially important in assessment tasks, as failure to include all necessary sections can result in significant mark loss.
 
 While taking on feedback can be difficult, especially if both parties are not on the same page about what is expected, it is important that both parties are able to come to some form of agreement as to the severity of the problem raised, and what a viable solution would be. I attempted to achieve this in the group activity by using the Positive-Improve-Positive or "Feedback Sandwich" method, as described in Feedback Sandwich (Bow Valley College, 2013), however this did not entirely stop disagreements from occurring. I feel that these difficulties came fom a differing understanding of what was expected of us for the assessment.
@@ -39,12 +51,15 @@ Bow Valley College 2013, Feedback Sandwich, videorecording, Youtube, viewed 02 F
 
 
 ## Professional Assessment Activity 2
+01/03/19
 
 
+![Photo of the Group](./assets/images/Assessment2.jpg)
 
+[Assessment Activity Worksheet](./assets/prof_asses_2.pdf)
 
 ## Subject Learning Objectives
-
+01/03/19
 ### Objective 1 - Articulate Preparedness for Participating in an Engineering Workplace
 
 
@@ -63,7 +78,7 @@ Week one was spent familiarising myself with the subject and what is expected th
 
 These different types of capital all play into the development of an "engineering identity", falling under the umbrella of "navigating the formal and informal pathways into the profession", as described in Schell, W. & Hughes, B. 2017. This does however show that while the different types of capital are important to an engineer's career, especially in terms of finding employment, they are not the be all and end all of an engineer's personal development. An engineer should aim to be continually developing not just their capital, but their engineering identity as a whole, whether that be from learning new things, learning about opportunities within the field, or by gaining recognition from their peers.
 
-
+Schell, W. & Hughes, B. 2017, 'An Approach to Understand the Role of Identity in Engineering Leadership'. 2017 American Society for Engineering Education Annual Conference and Exposition
 
 
 ### Entry 2 - Careers Fair
