@@ -1,9 +1,9 @@
 # Job Market Analysis
 
 ### Entries
->- [Cisco Meraki](./marketAnalysis.md#advertisment-one-star-entertainment-group)
+>- [Star Entertainment Group](./marketAnalysis.md#advertisment-one-star-entertainment-group)
 >- [IBM Australia](./marketAnalysis.md#advertisment-two-ibm-australia)
->- [Google Australia](./marketAnalysis.md#advertisment-three-cisco-meraki)
+>- [Cisco Meraki](./marketAnalysis.md#advertisment-three-cisco-meraki)
 
 
 
