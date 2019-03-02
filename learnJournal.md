@@ -53,6 +53,13 @@ Bow Valley College 2013, Feedback Sandwich, videorecording, Youtube, viewed 02 F
 ## Professional Assessment Activity 2
 01/03/19
 
+Professional Assessment Activity 2 is completed in much the same way as Professional Assessment Activity 1, however slightly more advanced ePortfolio requirements are assessed, as well as checking to see what changed and improvements have been made since Activity 1. Group members recieved feedback from other members of the group, one at a time, using examples from the ePortfolio where possible.
+
+All included feedback is in the PDF, but I have made a list of the most important points, and how I am to address them before the ePortfolio is submitted for marking:
+1. More reflective Assessment Task 1 entry
+2. Complete all necessary learning journal entries
+3. More information on the landing page/about me
+4. References for texts cited in entries 
 
 ![Photo of the Group](./assets/images/Assessment2.jpg)
 
