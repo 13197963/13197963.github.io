@@ -56,17 +56,29 @@ Bow Valley College 2013, Feedback Sandwich, videorecording, Youtube, viewed 02 F
 Professional Assessment Activity 2 is completed in much the same way as Professional Assessment Activity 1, however slightly more advanced ePortfolio requirements are assessed, as well as checking to see what changed and improvements have been made since Activity 1. Group members recieved feedback from other members of the group, one at a time, using examples from the ePortfolio where possible.
 
 All included feedback is in the PDF, but I have made a list of the most important points, and how I am to address them before the ePortfolio is submitted for marking:
-1. More reflective Assessment Task 1 entry
+1. More reflective Assessment Activity 1 entry
 2. Complete all necessary learning journal entries
 3. More information on the landing page/about me
 4. References for texts cited in entries 
+
+For the remaining week before the ePortfolio assessment is due, I will be working towards completeing at the very least, these four points, as based on my teammates' feedback, I judged them to give the best quality improvement to my ePortfolio for the time that they would take to complete. My methods for completing them were as follows:
+1. Attempt to better demonstrate the feedback given in Assessment Activity 1, and show how I addressed this feedback in order to show the method that I used to reflect on the assessment.
+2. This would be completed as part of continuing the journal entries, but I felt it was necessary to include as it would help me to stay on task, and not focus on less important points within the ePortfolio.
+3. The inclusion of more information would only be part of this, I think it will also be necessary to change the ordering of the paragraphs in order to tell more about me, and to make the page seem less like a CV (although the inclusion of that information is still important, as not everyone will read my resume).
+4. Texts referenced in the ePortfolio entries will be referenced according to the UTS Harvard Formatting.
+
+This task was very useful to me, as it allowed me to compare my ePortfolio to my teammates', which helped me to see which areas that they had perfomed well in, and how I could possibly improve my work based on their ideas (i.e. how they understood/addressed questions, writing techniques). This frame of reference given by my teammates work was beneficial as it helped me to understand the level of quality and detail that we were expected to achieve for this assessment task.
+
+The overall presentation was done identically to that which my group used for Assessment Activity 1, with the Feedback Sandwich method (Bow Valley College, 2013) being utilised in order to soften the impact of any negative feedback. Overall I felt that this time we got into the feedback faster and that the quality of the feedback was much better. I also felt like we had each gained a better understanding of the level of quality that each person was working towards, and aimed to give them feedback that assisted them in getting to that level, rather than providing them with information and techniques that were not going to be utilised by them.
 
 ![Photo of the Group](./assets/images/Assessment2.jpg)
 
 [Assessment Activity Worksheet](./assets/prof_asses_2.pdf)
 
+Bow Valley College 2013, Feedback Sandwich, videorecording, Youtube, viewed 02 February 2019, <https://www.youtube.com/watch?v=NO34pZvCg_s>
+
 ## Subject Learning Objectives
-01/03/19
+03/03/19
 ### Objective 1 - Articulate Preparedness for Participating in an Engineering Workplace
 
 
