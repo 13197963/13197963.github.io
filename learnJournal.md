@@ -81,11 +81,24 @@ Bow Valley College 2013, Feedback Sandwich, videorecording, Youtube, viewed 02 F
 03/03/19
 ### Objective 1 - Articulate Preparedness for Participating in an Engineering Workplace
 
+The reason the ability to articulate preparedness for participating in an engineering workplace is deemed to be important is twofold:
+
+1. Articulate - The ability to articulate ideas is especially important in the workplace as without it a student will find it extremely difficult to contribute as part of a team.
+
+2. Preparedness - The preparedness to participate is also an important part of working as a team, as the inability to participate would mean contributions were never seen or heard, regardless of their value or importance.
+
+These were achieved in this course through the use of the pre-reading tasks as well as the in class tasks in that students had to derive their own answers for the questions given, while simultaneously working to convey those ideas to their audience, in this case their class peers. Additionally, the inclusion of the Assessment Activity Tasks worked to combine these two points such that the students had to be prepared to participate in the group feedback session in order to get the most out of it, as well as being able to articulate their ideas to their groupmates in order to give valuable feedback.
 
 
 ### Objective 2 - Document and Communicate their Capabilities to Contribute to a Workplace and Engage in Workplace Learning
 
+The ability for a student to document and communication capabilities to contribute to a workplace and engage in workplace learning plays an important role in the job application process, as contribution and workplace learning are key "soft skills" that employers want from students. Documentation and capability communication can be broken down as the core skills of:
 
+1. Documentation - Documentation is an important skill to have not just in the workplace, but life in general. It is especially pertinent to the workplace in that it gives a record of what was done and when, something that is beneficial in both time management and dispute resolution.
+
+2. Communication of Capabilities - Communication of capabilities is especially important in the job market and when applying for promotions and extra responsibilities, as it is skill in this area that allows you to put your best foot forward when applying for new roles and allows you to stand out from other applicants.
+
+These core skills were achieved through the use of the ePortfolio, as well as through the Resume writing task. The ePortfolio was mainly used as a method to document knowledge gained and activities done throughout the course, with learning log entries not only serving as a way for students to document what they had done, but also reflect. The Job Market Analysis section of the ePortfolio was utilised in order to gain information about the job market in general, mainly the types of roles that were open, who was recruiting, and what sort of applicants they wanted. Knowledge of these factors is especially important when applying for jobs, as applying for a job that clearly wants someone with a different skillset is only going to waste your time when you could instead be applying for something with a much higher likelyhood of success. Additionally, the resume writing task further helps to improve on the communication of the student's capabilities as the recruiters will only look at a resume for a few seconds, meaning that only the most important information is needed, and that information must be easily accessible.
 
 
 ## Elective Journal Entries
