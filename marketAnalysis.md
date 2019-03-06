@@ -16,7 +16,7 @@ This is the type of work I would be interested in due to my interest in cybersec
 
 Applications for the Cyber Security Internship are done through Star Entertainment Group's website
 
-![Star Ad](./assets/images/starAd.jpg)
+![Star Ad](./assets/images/starAd.JPG)
 
 #### Example Cover Letter
 
