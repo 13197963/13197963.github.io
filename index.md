@@ -18,11 +18,11 @@ I make the software and networks that send and store that data.
 
 I do the analysis to find trends and correlations within the data.
 
-Why did I become an engineer?
+### Why did I become an engineer?
 
 I became an engineer as I was always fascinated about how things worked. As a child I was forever pulling apart old computers and VCRs to look at their inner workings (and not putting them back together again much to my mother's dismay). To this day I still find that understanding how things work is the best way to learn, whether it be cars, buildings, computers, or even programs, learning about how and why things are the way they are is a great way to increase engineering knowledge.
 
-What do I think engineering is?
+### What do I think engineering is?
 
 I believe that engineering is a subset of problem solving with the aim of reducing the impact of a real world issue. As such, I also believe that an engineer doesn't need to know everything, they just need to understand how to solve the problem and finer details can be learned from resources such as manuals, standards, and guidebooks.
 
@@ -87,8 +87,8 @@ Cooking
 
 ## SMART Development Goals
 
-| What do I Want to learn            | Additional programming languages, such as C++ and JavaScript |
 |------------------------------------|---------------------------------------------------------------|
+| What do I Want to learn            | Additional programming languages, such as C++ and JavaScript |
 | How can I measure progress         | Websites such as codeAcademy offer a % complete score, as well as a digital certificate upon course completion |
 | Am I capable of achieving the goal | I believe that I am capable of completing this, as I have done so previously using codeAcademy, and I also have some minor previous experience with these programming languages |
 | Benefits?                          | The overall benefit of this increased programming skill would be to improve my versatility, thereby improving my employability |
