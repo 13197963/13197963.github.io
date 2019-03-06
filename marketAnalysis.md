@@ -32,7 +32,7 @@ This is the type of work I would be interested in due to my prior experience wit
 
 Applications for the IBM internship program are done through both indeed and IBM's own website.
 
-![IBM Ad](./assets/images/ibmAd.jpg)
+![IBM Ad](./assets/images/ibmAd.JPG)
 
 #### Example Cover Letter
 
@@ -49,4 +49,4 @@ This is the sort of work I would be interested in due to my personal interest in
 Due to Cisco Meraki being a large company, the majority of recruitment is done through their HR department and [Jobs Portal](https://jobs.cisco.com/), although there is a potential employee social network/messageboard in the form of the [We Are Cisco Blog](https://www.cisco.com/c/en/us/about/careers/we-are-cisco/social-and-blog.html).
 Cisco Meraki has advertised current internships on [UTS CareerHub](https://careerhub.uts.edu.au/students/jobs/detail/4657200/network-support-engineer-inter), which are approved by FEIT.
 
-![Cisco Ad](./assets/images/ciscoAd.jpg)
+![Cisco Ad](./assets/images/ciscoAd.JPG)
